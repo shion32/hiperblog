@@ -41,6 +41,11 @@ background: white ;
     font-weight: normal;
     font-size: 0.8em;
     padding: 1em 0 0 0;
-    
+}
 
+#footer{
+    background: #777;
+    color: white;
+    text-align:center ;
+    padding: 0.5em;
 }
